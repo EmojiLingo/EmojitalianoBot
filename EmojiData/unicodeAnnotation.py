@@ -11,7 +11,7 @@ def processAnnotationFromUrl(language_code):
     annotation_dict = defaultdict(list)
     for base_url in [ANNOTATION_URL]: # [ANNOTATION_URL, ANNOTATION_DERIVED_URL]:
         url = base_url + '{}.xml'.format(language_code)
-        print 'parsing {}'.format(url)
+        print('parsing {}'.format(url))
         #response = requests.get(url, stream=True)
         #response.raw.decode_content = True
         response = requests.get(url)

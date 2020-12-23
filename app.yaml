@@ -1,4 +1,5 @@
 # application: emojitalianobot
+# version: production
 runtime: python27
 api_version: 1
 threadsafe: false
