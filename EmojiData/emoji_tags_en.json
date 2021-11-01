@@ -223,7 +223,7 @@
         "umlaut"
     ],
     "©": [
-        "c",
+        "C",
         "copyright"
     ],
     "«": [
@@ -240,7 +240,7 @@
         "not"
     ],
     "®": [
-        "r",
+        "R",
         "registered"
     ],
     "°": [
@@ -565,7 +565,7 @@
     ],
     "™": [
         "mark",
-        "tm",
+        "TM",
         "trade mark",
         "trademark"
     ],
@@ -726,7 +726,11 @@
         "north west arrow long bar"
     ],
     "↹": [
-        "leftwards arrow bar over rightwards arrow bar"
+        "arrow",
+        "bar",
+        "leftwards",
+        "leftwards over rightwards arrow bars",
+        "rightwards"
     ],
     "↺": [
         "anticlockwise open circle arrow"
@@ -1108,8 +1112,8 @@
         "equal",
         "equals",
         "inequality",
-        "less-than or equal",
-        "less-then"
+        "less-than",
+        "less-than or equal"
     ],
     "≥": [
         "equal",
@@ -1437,7 +1441,7 @@
     "Ⓜ": [
         "circle",
         "circled M",
-        "m"
+        "M"
     ],
     "■": [
         "filled square"
@@ -2628,52 +2632,53 @@
         "wildcard"
     ],
     "🅰": [
-        "a",
+        "A",
         "A button (blood type)",
         "blood type"
     ],
     "🅱": [
-        "b",
+        "B",
         "B button (blood type)",
         "blood type"
     ],
     "🅾": [
         "blood type",
-        "o",
+        "O",
         "O button (blood type)"
     ],
     "🅿": [
+        "P",
         "P button",
         "parking"
     ],
     "🆎": [
-        "ab",
+        "AB",
         "AB button (blood type)",
         "blood type"
     ],
     "🆑": [
-        "cl",
+        "CL",
         "CL button"
     ],
     "🆒": [
-        "cool",
+        "COOL",
         "COOL button"
     ],
     "🆓": [
-        "free",
+        "FREE",
         "FREE button"
     ],
     "🆔": [
-        "id",
+        "ID",
         "ID button",
         "identity"
     ],
     "🆕": [
-        "new",
+        "NEW",
         "NEW button"
     ],
     "🆖": [
-        "ng",
+        "NG",
         "NG button"
     ],
     "🆗": [
@@ -2682,17 +2687,18 @@
     ],
     "🆘": [
         "help",
-        "sos",
+        "SOS",
         "SOS button"
     ],
     "🆙": [
         "mark",
-        "up",
+        "UP",
+        "UP!",
         "UP! button"
     ],
     "🆚": [
         "versus",
-        "vs",
+        "VS",
         "VS button"
     ],
     "🈁": [
@@ -4123,7 +4129,7 @@
         "building"
     ],
     "🏧": [
-        "atm",
+        "ATM",
         "ATM sign",
         "automated",
         "bank",
@@ -4446,8 +4452,9 @@
         "penguin"
     ],
     "🐨": [
-        "bear",
-        "koala"
+        "face",
+        "koala",
+        "marsupial"
     ],
     "🐩": [
         "dog",
@@ -4582,9 +4589,11 @@
         "eye"
     ],
     "👁‍🗨": [
+        "balloon",
+        "bubble",
         "eye",
         "eye in speech bubble",
-        "speech bubble",
+        "speech",
         "witness"
     ],
     "👂": [
@@ -5563,8 +5572,9 @@
     ],
     "💤": [
         "comic",
+        "good night",
         "sleep",
-        "zzz"
+        "ZZZ"
     ],
     "💥": [
         "boom",
@@ -5741,17 +5751,18 @@
         "floppy disk"
     ],
     "💿": [
-        "cd",
+        "CD",
         "computer",
         "disk",
         "optical",
         "optical disk"
     ],
     "📀": [
-        "blu-ray",
+        "Blu-ray",
         "computer",
         "disk",
         "dvd",
+        "DVD",
         "optical"
     ],
     "📁": [
@@ -6253,30 +6264,31 @@
     ],
     "🔙": [
         "arrow",
-        "back",
+        "BACK",
         "BACK arrow"
     ],
     "🔚": [
         "arrow",
-        "end",
+        "END",
         "END arrow"
     ],
     "🔛": [
         "arrow",
         "mark",
-        "on",
+        "ON",
+        "ON!",
         "ON! arrow"
     ],
     "🔜": [
         "arrow",
-        "soon",
+        "SOON",
         "SOON arrow"
     ],
     "🔝": [
         "arrow",
-        "top",
-        "TOP arrow",
-        "up"
+        "TOP",
+        "up",
+        "TOP arrow"
     ],
     "🔞": [
         "18",
@@ -6918,6 +6930,8 @@
         "speaking head"
     ],
     "🗨": [
+        "balloon",
+        "bubble",
         "dialog",
         "left speech bubble",
         "speech"
@@ -7176,20 +7190,21 @@
         "worried face"
     ],
     "😠": [
+        "anger",
         "angry",
         "face",
         "mad",
-        "anger",
         "angry face"
     ],
     "😡": [
         "angry",
+        "enraged",
         "face",
         "mad",
         "pouting",
         "rage",
         "red",
-        "pouting face"
+        "enraged face"
     ],
     "😢": [
         "cry",
@@ -7243,6 +7258,7 @@
     ],
     "😪": [
         "face",
+        "good night",
         "sleep",
         "sleepy face"
     ],
@@ -7318,15 +7334,17 @@
     ],
     "😴": [
         "face",
+        "good night",
         "sleep",
         "sleeping face",
-        "zzz"
+        "ZZZ"
     ],
     "😵": [
+        "crossed-out eyes",
         "dead",
         "face",
-        "knocked out",
-        "knocked-out face"
+        "face with crossed-out eyes",
+        "knocked out"
     ],
     "😵‍💫": [
         "dizzy",
@@ -7695,7 +7713,6 @@
     ],
     "🚏": [
         "bus",
-        "busstop",
         "stop",
         "bus stop"
     ],
@@ -7985,22 +8002,28 @@
         "traffic"
     ],
     "🚹": [
+        "bathroom",
         "lavatory",
         "man",
         "men’s room",
         "restroom",
-        "wc"
+        "toilet",
+        "WC"
     ],
     "🚺": [
+        "bathroom",
         "lavatory",
         "restroom",
-        "wc",
+        "toilet",
+        "WC",
         "woman",
         "women’s room"
     ],
     "🚻": [
+        "bathroom",
         "lavatory",
         "restroom",
+        "toilet",
         "WC"
     ],
     "🚼": [
@@ -8012,11 +8035,13 @@
         "toilet"
     ],
     "🚾": [
+        "bathroom",
         "closet",
         "lavatory",
         "restroom",
+        "toilet",
         "water",
-        "wc",
+        "WC",
         "water closet"
     ],
     "🚿": [
@@ -8058,6 +8083,7 @@
         "lamp"
     ],
     "🛌": [
+        "good night",
         "hotel",
         "person in bed",
         "sleep"
@@ -8112,6 +8138,25 @@
         "elevator",
         "hoist",
         "lift"
+    ],
+    "🛝": [
+        "amusement park",
+        "play",
+        "playground slide"
+    ],
+    "🛞": [
+        "circle",
+        "tire",
+        "turn",
+        "wheel"
+    ],
+    "🛟": [
+        "float",
+        "life preserver",
+        "life saver",
+        "rescue",
+        "ring buoy",
+        "safety"
     ],
     "🛠": [
         "hammer",
@@ -8276,6 +8321,11 @@
         "square",
         "brown square"
     ],
+    "🟰": [
+        "equality",
+        "heavy equals sign",
+        "math"
+    ],
     "🤌": [
         "fingers",
         "hand gesture",
@@ -8344,7 +8394,9 @@
         "face",
         "hug",
         "hugging",
-        "hugging face"
+        "open hands",
+        "smiling face",
+        "smiling face with open hands"
     ],
     "🤘": [
         "finger",
@@ -8356,7 +8408,9 @@
     "🤙": [
         "call",
         "call me hand",
-        "hand"
+        "hand",
+        "hang loose",
+        "Shaka"
     ],
     "🤚": [
         "backhand",
@@ -8491,9 +8545,9 @@
     ],
     "🤮": [
         "face vomiting",
+        "puke",
         "sick",
-        "vomit",
-        "puke"
+        "vomit"
     ],
     "🤯": [
         "exploding head",
@@ -9001,6 +9055,14 @@
         "incognito",
         "nose"
     ],
+    "🥹": [
+        "angry",
+        "cry",
+        "face holding back tears",
+        "proud",
+        "resist",
+        "sad"
+    ],
     "🥺": [
         "begging",
         "mercy",
@@ -9261,7 +9323,7 @@
         "wisent"
     ],
     "🦭": [
-        "sea Lion",
+        "sea lion",
         "seal"
     ],
     "🦮": [
@@ -9454,6 +9516,12 @@
         "tea",
         "bubble tea"
     ],
+    "🧌": [
+        "fairy tale",
+        "fantasy",
+        "monster",
+        "troll"
+    ],
     "🧍": [
         "person standing",
         "stand",
@@ -9502,7 +9570,9 @@
         "deaf man"
     ],
     "🧐": [
+        "face",
         "face with monocle",
+        "monocle",
         "stuffy"
     ],
     "🧑": [
@@ -10048,6 +10118,21 @@
         "medicine",
         "stethoscope"
     ],
+    "🩻": [
+        "bones",
+        "doctor",
+        "medical",
+        "skeleton",
+        "x-ray"
+    ],
+    "🩼": [
+        "cane",
+        "crutch",
+        "disability",
+        "hurt",
+        "mobility aid",
+        "stick"
+    ],
     "🪀": [
         "fluctuate",
         "toy",
@@ -10129,7 +10214,6 @@
         "military helmet"
     ],
     "🪗": [
-        "accordian",
         "accordion",
         "concertina",
         "squeeze box"
@@ -10256,6 +10340,34 @@
         "solid",
         "stone"
     ],
+    "🪩": [
+        "dance",
+        "disco",
+        "glitter",
+        "mirror ball",
+        "party"
+    ],
+    "🪪": [
+        "credentials",
+        "ID",
+        "identification card",
+        "license",
+        "security"
+    ],
+    "🪫": [
+        "electronic",
+        "low battery",
+        "low energy"
+    ],
+    "🪬": [
+        "amulet",
+        "Fatima",
+        "hamsa",
+        "hand",
+        "Mary",
+        "Miriam",
+        "protection"
+    ],
     "🪰": [
         "disease",
         "fly",
@@ -10302,6 +10414,28 @@
         "light",
         "plumage"
     ],
+    "🪷": [
+        "Buddhism",
+        "flower",
+        "Hinduism",
+        "India",
+        "lotus",
+        "purity",
+        "Vietnam"
+    ],
+    "🪸": [
+        "coral",
+        "ocean",
+        "reef"
+    ],
+    "🪹": [
+        "empty nest",
+        "nesting"
+    ],
+    "🪺": [
+        "nest with eggs",
+        "nesting"
+    ],
     "🫀": [
         "anatomical",
         "cardiology",
@@ -10324,6 +10458,27 @@
         "hug",
         "people hugging",
         "thanks"
+    ],
+    "🫃": [
+        "belly",
+        "bloated",
+        "full",
+        "pregnant",
+        "pregnant man"
+    ],
+    "🫄": [
+        "belly",
+        "bloated",
+        "full",
+        "pregnant",
+        "pregnant person"
+    ],
+    "🫅": [
+        "monarch",
+        "noble",
+        "person with crown",
+        "regal",
+        "royalty"
     ],
     "🫐": [
         "berry",
@@ -10367,5 +10522,129 @@
         "pot",
         "tea",
         "teapot"
+    ],
+    "🫗": [
+        "drink",
+        "empty",
+        "glass",
+        "pouring liquid",
+        "spill"
+    ],
+    "🫘": [
+        "beans",
+        "food",
+        "kidney",
+        "legume"
+    ],
+    "🫙": [
+        "condiment",
+        "container",
+        "empty",
+        "jar",
+        "sauce",
+        "store"
+    ],
+    "🫠": [
+        "disappear",
+        "dissolve",
+        "liquid",
+        "melt",
+        "melting face"
+    ],
+    "🫡": [
+        "OK",
+        "salute",
+        "saluting face",
+        "sunny",
+        "troops",
+        "yes"
+    ],
+    "🫢": [
+        "amazement",
+        "awe",
+        "disbelief",
+        "embarrass",
+        "face with open eyes and hand over mouth",
+        "scared",
+        "surprise"
+    ],
+    "🫣": [
+        "captivated",
+        "face with peeking eye",
+        "peep",
+        "stare"
+    ],
+    "🫤": [
+        "disappointed",
+        "face with diagonal mouth",
+        "meh",
+        "skeptical",
+        "unsure"
+    ],
+    "🫥": [
+        "depressed",
+        "disappear",
+        "dotted line face",
+        "hide",
+        "introvert",
+        "invisible"
+    ],
+    "🫦": [
+        "anxious",
+        "biting lip",
+        "fear",
+        "flirting",
+        "nervous",
+        "uncomfortable",
+        "worried"
+    ],
+    "🫧": [
+        "bubbles",
+        "burp",
+        "clean",
+        "soap",
+        "underwater"
+    ],
+    "🫰": [
+        "expensive",
+        "hand with index finger and thumb crossed",
+        "heart",
+        "love",
+        "money",
+        "snap"
+    ],
+    "🫱": [
+        "hand",
+        "right",
+        "rightward",
+        "rightwards hand"
+    ],
+    "🫲": [
+        "hand",
+        "left",
+        "leftward",
+        "leftwards hand"
+    ],
+    "🫳": [
+        "dismiss",
+        "drop",
+        "palm down hand",
+        "shoo"
+    ],
+    "🫴": [
+        "beckon",
+        "catch",
+        "come",
+        "offer",
+        "palm up hand"
+    ],
+    "🫵": [
+        "index pointing at the viewer",
+        "point",
+        "you"
+    ],
+    "🫶": [
+        "heart hands",
+        "love"
     ]
 }

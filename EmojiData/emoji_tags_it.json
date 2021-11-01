@@ -122,12 +122,9 @@
     ],
     "^": [
         "accento",
-        "cappello",
         "caret",
         "chevron",
         "circonflesso",
-        "controllo",
-        "cuneo",
         "potenza",
         "puntatore",
         "segno xor",
@@ -441,7 +438,11 @@
         "linea in alto"
     ],
     "⁂": [
-        "asterismo"
+        "asterismo",
+        "triangolo di asterischi"
+    ],
+    "⁄": [
+        "barra di frazione"
     ],
     "⁉": [
         "punteggiatura",
@@ -454,9 +455,21 @@
         "meno",
         "segno meno in apice"
     ],
+    "₢": [
+        "cruzeiro"
+    ],
+    "₣": [
+        "franco francese"
+    ],
+    "₤": [
+        "lira"
+    ],
     "₥": [
         "mil",
         "mill"
+    ],
+    "₨": [
+        "rupia"
     ],
     "₩": [
         "KPW",
@@ -469,8 +482,20 @@
         "simbolo dell’euro",
         "valuta"
     ],
+    "₰": [
+        "pfennig tedesco"
+    ],
     "₱": [
         "peso"
+    ],
+    "₳": [
+        "austral"
+    ],
+    "₶": [
+        "livre tournois"
+    ],
+    "₷": [
+        "spesmilo"
     ],
     "₹": [
         "rupia",
@@ -704,6 +729,9 @@
     "⇃": [
         "arpione in basso con punta verso sinistra"
     ],
+    "⇄": [
+        "freccia a destra su freccia a sinistra"
+    ],
     "⇅": [
         "freccia",
         "freccia in alto e in basso",
@@ -717,6 +745,126 @@
         "freccia a sinistra su freccia a destra",
         "freccia verso sinistra su freccia verso destra",
         "sinistra"
+    ],
+    "⇇": [
+        "coppia di frecce rivolte a sinistra"
+    ],
+    "⇈": [
+        "coppia di frecce rivolte verso l’alto"
+    ],
+    "⇉": [
+        "coppia di frecce rivolte a destra"
+    ],
+    "⇊": [
+        "coppia di frecce rivolte verso il basso"
+    ],
+    "⇋": [
+        "arpione a sinistra su arpione a destra"
+    ],
+    "⇌": [
+        "arpione a destra su arpione a sinistra"
+    ],
+    "⇍": [
+        "freccia doppia a sinistra barrata"
+    ],
+    "⇎": [
+        "freccia doppia sinistra e destra barrata"
+    ],
+    "⇏": [
+        "freccia doppia a destra barrata"
+    ],
+    "⇐": [
+        "freccia doppia a sinstra"
+    ],
+    "⇑": [
+        "freccia doppia verso l’alto"
+    ],
+    "⇒": [
+        "freccia doppia a destra"
+    ],
+    "⇓": [
+        "freccia doppia verso il basso"
+    ],
+    "⇔": [
+        "freccia doppia sinistra e destra"
+    ],
+    "⇖": [
+        "freccia doppia nord-ovest"
+    ],
+    "⇗": [
+        "freccia doppia nord-est"
+    ],
+    "⇘": [
+        "freccia doppia sud-est"
+    ],
+    "⇙": [
+        "freccia doppia sud-ovest"
+    ],
+    "⇚": [
+        "freccia tripla a sinistra"
+    ],
+    "⇛": [
+        "freccia tripla a destra"
+    ],
+    "⇜": [
+        "freccia ondulare a sinistra"
+    ],
+    "⇝": [
+        "freccia ondulare a destra"
+    ],
+    "⇞": [
+        "freccia doppia verso l’alto con doppia barra"
+    ],
+    "⇟": [
+        "freccia doppia verso il basso con doppia barra"
+    ],
+    "⇠": [
+        "freccia tratteggiata a sinistra"
+    ],
+    "⇡": [
+        "freccia tratteggiata verso l’alto"
+    ],
+    "⇢": [
+        "freccia tratteggiata a destra"
+    ],
+    "⇣": [
+        "freccia tratteggiata verso il basso"
+    ],
+    "⇤": [
+        "freccia a sinistra verso barra"
+    ],
+    "⇥": [
+        "freccia a destra verso barra"
+    ],
+    "⇦": [
+        "freccia vuota a sinistra"
+    ],
+    "⇧": [
+        "freccia vuota verso l’alto"
+    ],
+    "⇨": [
+        "freccia vuota a destra"
+    ],
+    "⇩": [
+        "freccia vuota verso il basso"
+    ],
+    "⇪": [
+        "freccia vuota verso l’alto dalla barra"
+    ],
+    "⇵": [
+        "freccia verso il basso con freccia verso l’alto a destra"
+    ],
+    "∀": [
+        "per ogni"
+    ],
+    "∂": [
+        "derivata parziale"
+    ],
+    "∃": [
+        "esiste"
+    ],
+    "∅": [
+        "insieme vuoto"
     ],
     "∆": [
         "delta",
@@ -737,11 +885,41 @@
         "relazione",
         "simbolo di appartenenza"
     ],
+    "∉": [
+        "non appartiene"
+    ],
+    "∋": [
+        "contiene"
+    ],
+    "∎": [
+        "end of proof"
+    ],
+    "∏": [
+        "prodotto n-ary"
+    ],
+    "∑": [
+        "sommatoria n-ary"
+    ],
     "−": [
         "meno",
         "segno meno",
         "sottrarre",
         "sottrazione"
+    ],
+    "∓": [
+        "meno o più"
+    ],
+    "∕": [
+        "barra di divisione"
+    ],
+    "∗": [
+        "operatore asterisco"
+    ],
+    "∘": [
+        "operatore anello"
+    ],
+    "∙": [
+        "operatore punto elenco"
     ],
     "√": [
         "numero irrazionale",
@@ -750,9 +928,27 @@
         "radice",
         "radice quadrata"
     ],
+    "∝": [
+        "proporzionale"
+    ],
     "∞": [
         "infinito",
         "simbolo di infinito"
+    ],
+    "∟": [
+        "angolo retto"
+    ],
+    "∠": [
+        "angolo"
+    ],
+    "∣": [
+        "divide"
+    ],
+    "∥": [
+        "parallelo"
+    ],
+    "∧": [
+        "and logico"
     ],
     "∩": [
         "insieme",
@@ -765,6 +961,42 @@
         "simbolo di unione",
         "unione"
     ],
+    "∫": [
+        "integrale"
+    ],
+    "∬": [
+        "integrale doppio"
+    ],
+    "∮": [
+        "integrale curvilineo"
+    ],
+    "∴": [
+        "quindi"
+    ],
+    "∵": [
+        "perché"
+    ],
+    "∶": [
+        "rapporto"
+    ],
+    "∷": [
+        "proporzione"
+    ],
+    "∼": [
+        "operatore tilde"
+    ],
+    "∽": [
+        "tilde rovesciata"
+    ],
+    "∾": [
+        "lazy s invertito"
+    ],
+    "≃": [
+        "asintoticamente uguale"
+    ],
+    "≅": [
+        "congruente geometricamente"
+    ],
     "≈": [
         "approssimazione",
         "quasi uguale",
@@ -772,6 +1004,15 @@
         "simile",
         "simile a",
         "similitudine"
+    ],
+    "≌": [
+        "tutto uguale"
+    ],
+    "≒": [
+        "approssimativamente uguale all’immagine"
+    ],
+    "≖": [
+        "anello pari a"
     ],
     "≠": [
         "disuguaglianza",
@@ -786,6 +1027,9 @@
         "identico",
         "simbolo di coincidenza",
         "tre lineette"
+    ],
+    "≣": [
+        "strettamente equivalente"
     ],
     "≤": [
         "disuguaglianza",
@@ -805,11 +1049,143 @@
         "uguale",
         "uguale a"
     ],
+    "≦": [
+        "minore di su uguale"
+    ],
+    "≧": [
+        "maggiore di su uguale"
+    ],
+    "≪": [
+        "molto minore di"
+    ],
+    "≫": [
+        "molto maggiore di"
+    ],
+    "≬": [
+        "tra"
+    ],
+    "≮": [
+        "non minore di"
+    ],
+    "≯": [
+        "non maggiore di"
+    ],
+    "≳": [
+        "maggiore di o equivalente a"
+    ],
+    "≺": [
+        "precede"
+    ],
+    "≻": [
+        "segue"
+    ],
+    "⊁": [
+        "non segue"
+    ],
     "⊂": [
         "insieme",
         "simbolo di sottoinsieme",
         "sottoinsieme",
         "sottoinsieme di"
+    ],
+    "⊃": [
+        "sovrainsieme"
+    ],
+    "⊆": [
+        "sottoinsieme uguale a"
+    ],
+    "⊇": [
+        "sovrainsieme uguale a"
+    ],
+    "⊕": [
+        "segno più in cerchio"
+    ],
+    "⊖": [
+        "segno meno in cerchio"
+    ],
+    "⊗": [
+        "segno di moltiplicazione in cerchio"
+    ],
+    "⊘": [
+        "barra di divisione in cerchio"
+    ],
+    "⊙": [
+        "operatore punto in cerchio"
+    ],
+    "⊚": [
+        "operatore anello in cerchio"
+    ],
+    "⊛": [
+        "operatore asterisco in cerchio"
+    ],
+    "⊞": [
+        "segno più in quadrato"
+    ],
+    "⊟": [
+        "segno meno in quadrato"
+    ],
+    "⊥": [
+        "contraddizione"
+    ],
+    "⊮": [
+        "non forza"
+    ],
+    "⊰": [
+        "precede nella relazione"
+    ],
+    "⊱": [
+        "segue nella relazione"
+    ],
+    "⊶": [
+        "originale"
+    ],
+    "⊹": [
+        "matrice hermitiana coniugata"
+    ],
+    "⊿": [
+        "triangolo rettangolo"
+    ],
+    "⋁": [
+        "n-ary logico o"
+    ],
+    "⋂": [
+        "intersezione n-ary"
+    ],
+    "⋃": [
+        "unione n-ary"
+    ],
+    "⋅": [
+        "operatore punto"
+    ],
+    "⋆": [
+        "operatore asterisco (*)"
+    ],
+    "⋈": [
+        "unione naturale"
+    ],
+    "⋒": [
+        "intersezione doppia"
+    ],
+    "⋘": [
+        "molto molto minore di"
+    ],
+    "⋙": [
+        "molto molto maggiore di"
+    ],
+    "⋭": [
+        "non contiene come sottogruppo normale o uguale"
+    ],
+    "⋮": [
+        "puntini di sospensione verticali"
+    ],
+    "⋯": [
+        "puntini di sospensione centrati"
+    ],
+    "⋰": [
+        "puntini di sospensione diagonali in alto a destra"
+    ],
+    "⋱": [
+        "puntini di sospensione diagonali in basso a destra"
     ],
     "⌚": [
         "orologio",
@@ -920,6 +1296,36 @@
         "pulsante M cerchiata",
         "simbolo M"
     ],
+    "■": [
+        "quadrato pieno"
+    ],
+    "□": [
+        "quadrato vuoto"
+    ],
+    "▢": [
+        "quadrato vuoto con angoli arrotondati"
+    ],
+    "▣": [
+        "quadrato vuoto con quadrato pieno"
+    ],
+    "▤": [
+        "quadrato con riempimento orizzontale"
+    ],
+    "▥": [
+        "quadrato con riempimento verticale"
+    ],
+    "▦": [
+        "quadrato con riempimento tratteggiato ortogonale"
+    ],
+    "▧": [
+        "quadrato con righe inclinate da sinistra a destra"
+    ],
+    "▨": [
+        "quadrato con righe inclinate da destra a sinistra"
+    ],
+    "▩": [
+        "quadrato con riempimento tratteggiato diagonale"
+    ],
     "▪": [
         "geometria",
         "quadrato",
@@ -930,6 +1336,18 @@
         "quadrato",
         "quadrato bianco piccolo"
     ],
+    "▬": [
+        "rettangolo pieno"
+    ],
+    "▭": [
+        "rettangolo vuoto"
+    ],
+    "▮": [
+        "rettangolo verticale pieno"
+    ],
+    "▰": [
+        "parallelogramma pieno"
+    ],
     "▲": [
         "freccia",
         "in alto",
@@ -937,6 +1355,15 @@
         "triangolo",
         "triangolo pieno con punta verso l’alto",
         "triangolo pieno rivolto verso l’alto"
+    ],
+    "△": [
+        "triangolo vuoto rivolto verso l’alto"
+    ],
+    "▴": [
+        "triangolo piccolo pieno rivolto verso l’alto"
+    ],
+    "▵": [
+        "triangolo piccolo vuoto rivolto verso l’alto"
     ],
     "▶": [
         "freccia",
@@ -946,6 +1373,21 @@
         "riproduzione",
         "triangolo"
     ],
+    "▷": [
+        "triangolo vuoto rivolto verso destra"
+    ],
+    "▸": [
+        "triangolo piccolo pieno rivolto verso destra"
+    ],
+    "▹": [
+        "triangolo piccolo vuoto rivolto verso destra"
+    ],
+    "►": [
+        "puntatore pieno rivolto verso destra"
+    ],
+    "▻": [
+        "puntatore vuoto rivolto verso destra"
+    ],
     "▼": [
         "freccia",
         "in basso",
@@ -954,12 +1396,48 @@
         "triangolo pieno capovolto",
         "triangolo pieno con punta verso il basso"
     ],
+    "▽": [
+        "triangolo vuoto capovolto"
+    ],
+    "▾": [
+        "triangolo piccolo pieno capovolto"
+    ],
+    "▿": [
+        "triangolo piccolo vuoto capovolto"
+    ],
     "◀": [
         "pulsante",
         "pulsante di riavvolgimento",
         "pulsante riavvolgimento",
         "sinistra",
         "triangolo"
+    ],
+    "◁": [
+        "triangolo vuoto rivolto verso sinistra"
+    ],
+    "◂": [
+        "triangolo piccolo pieno rivolto verso sinistra"
+    ],
+    "◃": [
+        "triangolo piccolo vuoto rivolto verso sinistra"
+    ],
+    "◄": [
+        "puntatore pieno rivolto verso sinistra"
+    ],
+    "◅": [
+        "puntatore vuoto rivolto verso sinistra"
+    ],
+    "◆": [
+        "rombo pieno"
+    ],
+    "◇": [
+        "rombo vuoto"
+    ],
+    "◈": [
+        "rombo vuoto con rombo pieno"
+    ],
+    "◉": [
+        "cerchio vuoto con cerchio pieno"
     ],
     "◊": [
         "diamante",
@@ -971,14 +1449,92 @@
         "cerchio",
         "cerchio vuoto"
     ],
+    "◌": [
+        "cerchio tratteggiato"
+    ],
+    "◍": [
+        "cerchio con riempimento verticale"
+    ],
+    "◎": [
+        "cerchi concentrici"
+    ],
     "●": [
         "cerchio",
         "cerchio pieno"
+    ],
+    "◐": [
+        "cerchio con metà sinistra piena"
+    ],
+    "◑": [
+        "cerchio con metà destra piena"
+    ],
+    "◒": [
+        "cerchio con metà inferiore piena"
+    ],
+    "◓": [
+        "cerchio con metà superiore piena"
+    ],
+    "◔": [
+        "cerchio con quadrante in alto a destra pieno"
+    ],
+    "◕": [
+        "cerchio con quadrante in alto a sinistra vuoto"
+    ],
+    "◖": [
+        "semicerchio sinistro pieno"
+    ],
+    "◗": [
+        "semicerchio destro pieno"
+    ],
+    "◘": [
+        "punto elenco inverso"
+    ],
+    "◙": [
+        "quadrato pieno con cerchio vuoto"
+    ],
+    "◜": [
+        "arco circolare del quadrante in alto a sinistra"
+    ],
+    "◝": [
+        "arco circolare del quadrante in alto a destra"
+    ],
+    "◞": [
+        "arco circolare del quadrante in basso a destra"
+    ],
+    "◟": [
+        "arco circolare del quadrante in basso a sinistra"
+    ],
+    "◠": [
+        "semicerchio superiore"
+    ],
+    "◡": [
+        "semicerchio inferiore"
+    ],
+    "◢": [
+        "triangolo in basso a destra pieno"
+    ],
+    "◣": [
+        "triangolo in basso a sinistra pieno"
+    ],
+    "◤": [
+        "triangolo in alto a sinistra pieno"
+    ],
+    "◥": [
+        "triangolo in alto a destra pieno"
+    ],
+    "◦": [
+        "punto elenco vuoto"
     ],
     "◯": [
         "anello",
         "cerchio",
         "cerchio vuoto grande"
+    ],
+    "◳": [
+        "quadrato vuoto con quadrante in alto a destra"
+    ],
+    "◷": [
+        "cerchio vuoto con quadrante in alto a destra"
     ],
     "◻": [
         "geometria",
@@ -999,6 +1555,9 @@
         "geometria",
         "quadrato",
         "quadrato nero medio-piccolo"
+    ],
+    "◿": [
+        "triangolo in basso a destra vuoto"
     ],
     "☀": [
         "calore",
@@ -1524,8 +2083,7 @@
     "✅": [
         "baffo",
         "pulsante segno di spunta",
-        "segno di spunta",
-        "segno di spunta grande"
+        "segno di spunta"
     ],
     "✈": [
         "aeroplano",
@@ -1603,9 +2161,9 @@
         "stelline"
     ],
     "✳": [
+        "*",
         "asterisco",
-        "otto punte",
-        "sfondo verde"
+        "otto punte"
     ],
     "✴": [
         "asterisco",
@@ -1620,8 +2178,7 @@
     ],
     "❇": [
         "scintilla",
-        "scintilla stilizzata",
-        "sfondo verde"
+        "scintilla stilizzata"
     ],
     "❌": [
         "croce",
@@ -1672,19 +2229,22 @@
         "cuore guarito"
     ],
     "➕": [
+        "+",
         "addizione",
         "più",
-        "simbolo dell’addizione"
+        "segno di addizione"
     ],
     "➖": [
+        "-",
         "meno",
-        "simbolo della sottrazione",
+        "segno di sottrazione",
         "sottrazione"
     ],
     "➗": [
+        "÷",
         "divisione",
         "diviso",
-        "simbolo della divisione"
+        "segno di divisione"
     ],
     "➡": [
         "direzione",
@@ -1714,6 +2274,30 @@
         "freccia",
         "freccia curva in basso",
         "verso il basso"
+    ],
+    "⨧": [
+        "segno più con pedice due"
+    ],
+    "⨯": [
+        "prodotto vettoriale"
+    ],
+    "⨼": [
+        "prodotto interno"
+    ],
+    "⩣": [
+        "operatore logico or con barra inferiore doppia"
+    ],
+    "⩽": [
+        "minore di sopra uguale a obliquo"
+    ],
+    "⪍": [
+        "minore di sopra circa uguale"
+    ],
+    "⪚": [
+        "uguale doppio sopra maggiore di"
+    ],
+    "⪺": [
+        "segue sopra non quasi uguale"
     ],
     "⬅": [
         "direzione",
@@ -1754,7 +2338,7 @@
         "stella"
     ],
     "⭕": [
-        "cerchio",
+        "cerchio rosso vuoto",
         "gioco",
         "pallino",
         "tris"
@@ -1778,10 +2362,10 @@
         "tupla"
     ],
     "〉": [
-        "arentesi angolare",
         "chevron",
         "parentesi a diamante",
         "parentesi a punta",
+        "parentesi angolare",
         "parentesi angolare chiusa",
         "tupla"
     ],
@@ -1828,7 +2412,7 @@
     "〔": [
         "parentesi",
         "parentesi quadra spezzata",
-        "pParentesi quadra spezzata aperta",
+        "parentesi quadra spezzata aperta",
         "spezzata"
     ],
     "〕": [
@@ -1877,6 +2461,9 @@
         "ideogramma",
         "ideogramma giapponese di “Segreto”",
         "segreto"
+    ],
+    "﷼": [
+        "rial"
     ],
     "🀄": [
         "drago",
@@ -2796,7 +3383,11 @@
         "Festa delle stelle"
     ],
     "🎌": [
-        "bandiere del Giappone incrociate"
+        "bandiere del Giappone incrociate",
+        "bandiere incrociate",
+        "festeggiamenti",
+        "Giappone",
+        "giapponesi"
     ],
     "🎍": [
         "bambù",
@@ -5304,6 +5895,7 @@
         "bandierina",
         "casetta postale aperta bandierina giù",
         "cassetta postale",
+        "cassetta postale aperta bandierina abbassata",
         "cassetta postale con bandierina abbassata",
         "posta"
     ],
@@ -5337,8 +5929,8 @@
     ],
     "📳": [
         "cellulare",
-        "modalità vibrazione",
-        "telefono modalità"
+        "modalità telefono",
+        "modalità vibrazione"
     ],
     "📴": [
         "cellulare",
@@ -5351,6 +5943,7 @@
         "cellulari vietati",
         "niente cellulare",
         "niente cellulari",
+        "simbolo che vieta l’uso dei cellulari",
         "simbolo che vieta l’utilizzo dei telefoni cellulari"
     ],
     "📶": [
@@ -5441,6 +6034,7 @@
         "antiorario",
         "frecce",
         "frecce a cerchio aperto",
+        "frecce che ruotano in senso antiorario",
         "frecce senso antiorario",
         "pulsante con frecce che ruotano in senso antiorario"
     ],
@@ -7212,7 +7806,6 @@
         "wc"
     ],
     "🚼": [
-        "bambino a bordo",
         "cartello neonato",
         "fasciatoio",
         "simbolo con immagine di bambino",
@@ -7329,6 +7922,29 @@
         "accessibilità",
         "ascensore",
         "montacarichi"
+    ],
+    "🛝": [
+        "area divertimento",
+        "area giochi",
+        "giocare",
+        "parco giochi",
+        "scivolo"
+    ],
+    "🛞": [
+        "cerchio",
+        "girare",
+        "gomma",
+        "pneumatico",
+        "ruota"
+    ],
+    "🛟": [
+        "ciambella",
+        "galleggiante",
+        "gonfiabile",
+        "salvagente",
+        "salvare",
+        "sicurezza",
+        "soccorso"
     ],
     "🛠": [
         "attrezzi",
@@ -7494,6 +8110,12 @@
         "quadrato",
         "quadrato di colore marrone",
         "quadrato marrone"
+    ],
+    "🟰": [
+        "matematica",
+        "segno di uguaglianza",
+        "uguaglianza",
+        "uguale"
     ],
     "🤌": [
         "dita",
@@ -8155,7 +8777,7 @@
         "festival",
         "moon cake",
         "torta della luna",
-        "yuèbǐng"
+        "yuebing"
     ],
     "🥯": [
         "bagel",
@@ -8170,19 +8792,11 @@
     ],
     "🥱": [
         "annoiata",
-        "annoiate",
-        "annoiati",
         "annoiato",
         "faccina che sbadiglia",
-        "mi annoio",
-        "noia",
-        "sbadigliare",
         "sbadiglio",
         "sonno",
         "stanca",
-        "stanche",
-        "stanchezza",
-        "stanchi",
         "stanco"
     ],
     "🥲": [
@@ -8235,6 +8849,14 @@
         "naso",
         "occhiali",
         "travestimento"
+    ],
+    "🥹": [
+        "arrabbiato",
+        "faccina che trattiene le lacrime",
+        "fiero",
+        "piangere",
+        "resistere",
+        "triste"
     ],
     "🥺": [
         "faccina sull’orlo delle lacrime",
@@ -8473,13 +9095,9 @@
         "bradipo",
         "calma",
         "lenta",
-        "lente",
         "lentezza",
-        "lenti",
         "lento",
         "pigra",
-        "pigre",
-        "pigri",
         "pigrizia",
         "pigro"
     ],
@@ -8708,6 +9326,13 @@
         "perla",
         "sfera",
         "tè"
+    ],
+    "🧌": [
+        "fantasia",
+        "favola",
+        "fiaba",
+        "mostro",
+        "troll"
     ],
     "🧍": [
         "in piedi",
@@ -9293,6 +9918,25 @@
         "medico",
         "stetoscopio"
     ],
+    "🩻": [
+        "dottore",
+        "lastra",
+        "medico",
+        "ossa",
+        "radiografia",
+        "raggi x",
+        "scheletro"
+    ],
+    "🩼": [
+        "ausilio",
+        "bastone",
+        "disabile",
+        "ferito",
+        "infortunio",
+        "mobilità",
+        "stampella",
+        "supporto"
+    ],
     "🪀": [
         "giocattolo",
         "rocchetto",
@@ -9497,6 +10141,41 @@
         "roccia",
         "solido"
     ],
+    "🪩": [
+        "ballare",
+        "brillare",
+        "dance",
+        "disco",
+        "discoteca",
+        "festa",
+        "glitter",
+        "palla da discoteca",
+        "specchi"
+    ],
+    "🪪": [
+        "badge",
+        "carta d’identità",
+        "credenziali",
+        "documento d’identità",
+        "patente",
+        "sicurezza",
+        "tessera"
+    ],
+    "🪫": [
+        "batteria scarica",
+        "elettronica",
+        "energia bassa"
+    ],
+    "🪬": [
+        "ALO",
+        "amuleto",
+        "hamsa",
+        "khamsa",
+        "mano di Fatima",
+        "Maria",
+        "Miriam",
+        "protezione"
+    ],
     "🪰": [
         "decomposizione",
         "infestante",
@@ -9543,6 +10222,29 @@
         "uccello",
         "volo"
     ],
+    "🪷": [
+        "buddhismo",
+        "fiore",
+        "India",
+        "induismo",
+        "loto",
+        "purezza",
+        "Vietnam"
+    ],
+    "🪸": [
+        "barriera",
+        "barriera corallina",
+        "corallo",
+        "oceano"
+    ],
+    "🪹": [
+        "nidificazione",
+        "nido vuoto"
+    ],
+    "🪺": [
+        "nidificazione",
+        "nido con uova"
+    ],
     "🫀": [
         "battito",
         "cardiologia",
@@ -9565,6 +10267,30 @@
         "ciao",
         "grazie",
         "persone che si abbracciano"
+    ],
+    "🫃": [
+        "gonfio",
+        "gravido",
+        "incinto",
+        "pancia",
+        "pieno",
+        "uomo incinto"
+    ],
+    "🫄": [
+        "gonfio",
+        "gravido",
+        "incinto",
+        "pancia",
+        "persona incinta",
+        "pieno"
+    ],
+    "🫅": [
+        "monarca",
+        "nobile",
+        "persona con corona",
+        "re",
+        "regale",
+        "regina"
     ],
     "🫐": [
         "bacca",
@@ -9604,5 +10330,147 @@
         "bere",
         "tè",
         "teiera"
+    ],
+    "🫗": [
+        "bevanda",
+        "bicchiere",
+        "drink",
+        "liquido versato",
+        "versare"
+    ],
+    "🫘": [
+        "cibo",
+        "fagioli",
+        "legume"
+    ],
+    "🫙": [
+        "barattolo",
+        "condimento",
+        "conservare",
+        "contenitore",
+        "dispensa",
+        "salsa",
+        "sugo",
+        "vuoto"
+    ],
+    "🫠": [
+        "dissolversi",
+        "faccina che si scioglie",
+        "liquefarsi",
+        "liquido",
+        "sciogliersi",
+        "sparire",
+        "squagliarsi"
+    ],
+    "🫡": [
+        "faccina che fa il saluto",
+        "militare",
+        "ok",
+        "saluto",
+        "signorsì",
+        "soleggiato",
+        "truppe"
+    ],
+    "🫢": [
+        "faccina con occhi aperti e mano sulla bocca",
+        "imbarazzo",
+        "incredulità",
+        "meraviglia",
+        "sorpresa",
+        "spavento",
+        "stupore"
+    ],
+    "🫣": [
+        "faccina che sbircia tra le dita",
+        "fissare",
+        "incuriosito",
+        "sbirciare",
+        "spiare"
+    ],
+    "🫤": [
+        "così così",
+        "deluso",
+        "dubbioso",
+        "faccina perplessa",
+        "meh",
+        "perplesso",
+        "scettico"
+    ],
+    "🫥": [
+        "depresso",
+        "faccina tratteggiata",
+        "introverso",
+        "invisibile",
+        "nascondersi",
+        "scomparire",
+        "sparire"
+    ],
+    "🫦": [
+        "ansia",
+        "bocca che morde il labbro",
+        "disagio",
+        "flirtare",
+        "nervoso",
+        "paura",
+        "preoccupato",
+        "sedurre"
+    ],
+    "🫧": [
+        "bolle",
+        "bollicine",
+        "pulito",
+        "rutto",
+        "sapone",
+        "schiuma",
+        "sott’acqua",
+        "subacqueo"
+    ],
+    "🫰": [
+        "amore",
+        "caro",
+        "costoso",
+        "cuore",
+        "denaro",
+        "mano con indice e pollice incrociati",
+        "schioccare",
+        "soldi"
+    ],
+    "🫱": [
+        "destra",
+        "mano",
+        "mano rivolta a destra",
+        "verso destra"
+    ],
+    "🫲": [
+        "mano",
+        "mano rivolta a sinistra",
+        "sinistra",
+        "verso sinistra"
+    ],
+    "🫳": [
+        "cacciare",
+        "congedare",
+        "imporre",
+        "mano con il palmo verso il basso"
+    ],
+    "🫴": [
+        "mano con il palmo verso l’alto",
+        "offrire",
+        "prendere",
+        "raccogliere",
+        "richiamare"
+    ],
+    "🫵": [
+        "indicare",
+        "indice verso l’osservatore",
+        "puntare",
+        "tu"
+    ],
+    "🫶": [
+        "amore",
+        "cuore",
+        "mani a cuore",
+        "ti amo",
+        "ti voglio bene"
     ]
 }
