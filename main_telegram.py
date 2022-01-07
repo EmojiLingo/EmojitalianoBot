@@ -61,8 +61,8 @@ ISTRUZIONI =  \
 @emojitalianobot è un tool gratuito e aperto alla comunità per costruire un dizionario italiano degli emoji.
 
 Hai la possibilità di cercare parole o emoji inserite nel glossario di Emojitaliano usato per tradurre \
-[Pinocchio](scritturebrevi.it/2016/02/05/pinocchio-in-emojitaliano-the-emoji-column) \
-e la [Costituzione](https://www.scritturebrevi.it/2016/10/18/la-costituzione-in-emojitaliano-marina-pierani-libro-delle-firme/):
+[Pinocchio](scritturebrevi.it/2016/02/05/pinocchio-in-emojitaliano-the-emoji-column), \
+la [Costituzione](https://www.scritturebrevi.it/2016/10/18/la-costituzione-in-emojitaliano-marina-pierani-libro-delle-firme/), e gli altri testi tradotti in Emojitaliano.
 
 Se hai bisogno di aiuto o vuoi aiutarci a migliorare il bot vieni nel gruppo di discussione cliccando \
 [--> QUI <--](telegram.me/joinchat/B8zsMQg_NUYAROsKeUe8Xw)
@@ -73,7 +73,7 @@ e su [storebot](telegram.me/storebot?start=emojitalianobot).
 
 Per maggiori informazioni visita scritturebrevi.it/emojitalianobot
 
-@emojitalianobot v.7 (ultima modifica 19 Apr 2018)
+@emojitalianobot v. 7.1 (ultima modifica 7 Gen 2022)
 """
 
 INVITE_FRIEND_INSTRUCTION = \

@@ -1,3 +1,6 @@
+# gcloud config set project emojitalianobot
+# gcloud app deploy -q -v production
+
 # application: emojitalianobot
 # version: production
 runtime: python27
